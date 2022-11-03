@@ -1,1 +1,1 @@
-cmd /c ""C:\Program Files\Git\bin\bash.exe" --login -i -- C:\Users\Anat\Documents\git_commit.sh"
+cmd /c ""C:\Program Files\Git\bin\bash.exe" --login -i -- C:\Users\Hasharon-OC\Desktop\Nivut_CD\Hasharon_Website\Github\hasharonoc.github.io\Result_Uploadin_Scripts\git_commit.sh"
