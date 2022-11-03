@@ -1,0 +1,1 @@
+cmd /c ""C:\Program Files\Git\bin\bash.exe" --login -i -- C:\Users\Anat\Documents\git_commit.sh"
