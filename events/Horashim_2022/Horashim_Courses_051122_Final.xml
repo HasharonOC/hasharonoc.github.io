@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE CourseData SYSTEM "IOFdata_OCAD.dtd">
+<!-- coordinate system:   -->
 <CourseData>
 
   <IOFVersion version="2.0.3" />
