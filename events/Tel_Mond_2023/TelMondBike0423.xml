@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CourseData>
+  <IOFVersion version="2.0.3" />
+  <ModifyDate>
+    <Date>2023-04-16</Date>
+    <Clock>23:30</Clock>
+  </ModifyDate>
+  <Map>
+    <Scale>15000</Scale>
+    <MapPosition x="0" y="297.01" />
+  </Map>
+  <StartPoint>
+    <StartPointCode>STA1</StartPointCode>
+    <MapPosition x="153.03" y="261.84" />
+  </StartPoint>
+  <Control>
+    <ControlCode>65</ControlCode>
+    <MapPosition x="139.35" y="251.92" />
+  </Control>
+  <Control>
+    <ControlCode>66</ControlCode>
+    <MapPosition x="51.15" y="243.21" />
+  </Control>
+  <Control>
+    <ControlCode>67</ControlCode>
+    <MapPosition x="61.46" y="210.78" />
+  </Control>
+  <Control>
+    <ControlCode>68</ControlCode>
+    <MapPosition x="39.5" y="181.95" />
+  </Control>
+  <Control>
+    <ControlCode>69</ControlCode>
+    <MapPosition x="34.02" y="125.74" />
+  </Control>
+  <Control>
+    <ControlCode>71</ControlCode>
+    <MapPosition x="71.11" y="44.36" />
+  </Control>
+  <Control>
+    <ControlCode>72</ControlCode>
+    <MapPosition x="159.02" y="65.98" />
+  </Control>
+  <Control>
+    <ControlCode>74</ControlCode>
+    <MapPosition x="111.57" y="88.81" />
+  </Control>
+  <Control>
+    <ControlCode>75</ControlCode>
+    <MapPosition x="153.88" y="141" />
+  </Control>
+  <Control>
+    <ControlCode>76</ControlCode>
+    <MapPosition x="89.07" y="193.96" />
+  </Control>
+  <Control>
+    <ControlCode>77</ControlCode>
+    <MapPosition x="165.93" y="112.94" />
+  </Control>
+  <Control>
+    <ControlCode>78</ControlCode>
+    <MapPosition x="154.88" y="182.14" />
+  </Control>
+  <Control>
+    <ControlCode>79</ControlCode>
+    <MapPosition x="119.82" y="225.32" />
+  </Control>
+  <Control>
+    <ControlCode>80</ControlCode>
+    <MapPosition x="15.21" y="218.06" />
+  </Control>
+  <FinishPoint>
+    <FinishPointCode>FIN1</FinishPointCode>
+    <MapPosition x="166.12" y="247.58" />
+  </FinishPoint>
+  <Course>
+    <CourseName>Long</CourseName>
+    <CourseId>0</CourseId>
+    <ClassShortName>אופטימלי 20.7 ק"מ</ClassShortName>
+    <CourseVariation>
+      <CourseVariationId>0</CourseVariationId>
+      <CourseLength>15100</CourseLength>
+      <CourseClimb>120</CourseClimb>
+      <StartPointCode>STA1</StartPointCode>
+      <CourseControl>
+        <Sequence>1</Sequence>
+        <ControlCode>66</ControlCode>
+        <LegLength>1563</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>2</Sequence>
+        <ControlCode>80</ControlCode>
+        <LegLength>658</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>3</Sequence>
+        <ControlCode>67</ControlCode>
+        <LegLength>702</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>4</Sequence>
+        <ControlCode>74</ControlCode>
+        <LegLength>1978</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>5</Sequence>
+        <ControlCode>72</ControlCode>
+        <LegLength>790</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>6</Sequence>
+        <ControlCode>71</ControlCode>
+        <LegLength>1358</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>7</Sequence>
+        <ControlCode>69</ControlCode>
+        <LegLength>1341</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>8</Sequence>
+        <ControlCode>68</ControlCode>
+        <LegLength>867</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>9</Sequence>
+        <ControlCode>77</ControlCode>
+        <LegLength>2161</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>10</Sequence>
+        <ControlCode>75</ControlCode>
+        <LegLength>458</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>11</Sequence>
+        <ControlCode>78</ControlCode>
+        <LegLength>617</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>12</Sequence>
+        <ControlCode>76</ControlCode>
+        <LegLength>1003</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>13</Sequence>
+        <ControlCode>79</ControlCode>
+        <LegLength>659</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>14</Sequence>
+        <ControlCode>65</ControlCode>
+        <LegLength>495</LegLength>
+      </CourseControl>
+      <FinishPointCode>FIN1</FinishPointCode>
+      <DistanceToFinish>410</DistanceToFinish>
+    </CourseVariation>
+  </Course>
+  <Course>
+    <CourseName>Short</CourseName>
+    <CourseId>1</CourseId>
+    <ClassShortName>אופטימלי 12.7 ק"מ</ClassShortName>
+    <CourseVariation>
+      <CourseVariationId>0</CourseVariationId>
+      <CourseLength>9500</CourseLength>
+      <CourseClimb>85</CourseClimb>
+      <StartPointCode>STA1</StartPointCode>
+      <CourseControl>
+        <Sequence>1</Sequence>
+        <ControlCode>79</ControlCode>
+        <LegLength>740</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>2</Sequence>
+        <ControlCode>78</ControlCode>
+        <LegLength>834</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>3</Sequence>
+        <ControlCode>72</ControlCode>
+        <LegLength>1743</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>4</Sequence>
+        <ControlCode>74</ControlCode>
+        <LegLength>790</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>5</Sequence>
+        <ControlCode>68</ControlCode>
+        <LegLength>1767</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>6</Sequence>
+        <ControlCode>67</ControlCode>
+        <LegLength>544</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>7</Sequence>
+        <ControlCode>80</ControlCode>
+        <LegLength>702</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>8</Sequence>
+        <ControlCode>66</ControlCode>
+        <LegLength>661</LegLength>
+      </CourseControl>
+      <CourseControl>
+        <Sequence>9</Sequence>
+        <ControlCode>65</ControlCode>
+        <LegLength>1331</LegLength>
+      </CourseControl>
+      <FinishPointCode>FIN1</FinishPointCode>
+      <DistanceToFinish>410</DistanceToFinish>
+    </CourseVariation>
+  </Course>
+</CourseData>
